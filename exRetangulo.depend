@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657050926 source:c:\repositorios\cursologicaprogramacao\linguagemc++\exretangulo\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
